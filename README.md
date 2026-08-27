@@ -52,7 +52,7 @@ The primary file in this repository is `Corporate_Financial_Performance_Dashboar
 
 ---
 
-## 📂 Workbook Structure
+## 📂 Workbook Structure- https://1drv.ms/x/c/1790eeaed48175a5/IQD_LnN7WSMHR7J-GpfxCqtgATqC57-MPUZzHYNQ6ebTXPg?e=AZT8lz
 
 The `Corporate_Financial_Performance_Dashboard.xlsx` file is organized into several highly functional sheets:
 
